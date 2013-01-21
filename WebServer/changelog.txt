@@ -1,0 +1,4 @@
+Release 1.100
+
+1. Reordered operations at destroy
+2. Added change port in launcher

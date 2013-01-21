@@ -1,0 +1,4 @@
+TJWS release 1.100
+==================
+
+This is primary bug fixing release with introduction of jss 3.1 support.
